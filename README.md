@@ -10,19 +10,16 @@
         <li>inf-20100630-1835</li>
         <li>a1.1.2_01</li>
         <li>a1.2.6</li>
-        <li>b1.3_01</li>
-        <li>b1.5_01</li>
-        <li>b1.7.3</li>
-        <li>b1.8.1</li>
-      </ul>
-    </td>
-    <td valign="top">
-        <ul>
+        <li>b1.8.1</li> <br>
         <li>1.0</li>
         <li>1.3.2</li>
         <li>1.5.2</li>
         <li>1.7.10</li>
         <li>1.8.9</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <ul>
         <li>1.9.4</li>
         <li>1.12.2</li>
         <li>1.13.2</li>
@@ -38,4 +35,6 @@
   </tr>
 </table>
 
-<img src="Imagens/PrimeiraCasa.jpg" alt="Primeira Casa">
+<img src="Imagens/23-09-2026.jpg" alt="Primeira Casa">
+<img src="Imagens/25-09-2026.jpg" alt="8 Horas pra achar 2 diamantes e um Creeper">
+<img src="Imagens/07-10-2026.jpg" alt="Herobrine, Nether e Que Mario?">
