@@ -6,31 +6,28 @@
 <table align="center">
   <tr>
     <td valign="top">
-      <ul>
-        <li>inf-20100630-1835</li>
-        <li>a1.1.2_01</li>
-        <li>a1.2.6</li>
-        <li>b1.8.1</li> <br>
-        <li>1.0</li>
-        <li>1.3.2</li>
-        <li>1.5.2</li>
-        <li>1.7.10</li>
-        <li>1.8.9</li>
-      </ul>
-    </td>
+      <div>
+        <div>☑ inf-20100630-1835</div>
+        <div>☑ a1.1.2_01</div>
+        <div>☑ a1.2.6</div>
+        <div>☑ b1.8.1</div> <br>
+        <div>☑ 1.0</div>
+        <div>☐ 1.5.2</div>
+        <div>☐ 1.7.10</div>
+        <div>☐ 1.8.9</div>
+      </div>
+    </div>
     <td valign="top">
-      <ul>
-        <li>1.9.4</li>
-        <li>1.12.2</li>
-        <li>1.13.2</li>
-        <li>1.14</li>
-        <li>1.14.4</li>
-        <li>1.16.5</li>
-        <li>1.19.4</li>
-        <li>1.21</li>
-        <li>1.21.11</li>
-        <li>26.2</li>
-      </ul>
+      <div>
+        <div>☐ 1.9.4</div>
+        <div>☐ 1.12.2</div>
+        <div>☐ 1.13.2</div>
+        <div>☐ 1.14</div>
+        <div>☐ 1.16.5</div>
+        <div>☐ 1.19.4</div>
+        <div>☐ 1.21.11</div>
+        <div>☐ 26.3</div>
+      </div>
     </td>
   </tr>
 </table>
